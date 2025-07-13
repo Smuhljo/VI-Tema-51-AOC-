@@ -63,3 +63,10 @@ Graphs: Include route convergence over time, pheromone distribution, and path co
 Plots:
   Best path length over iterations
   Comparison between heuristic and non-heuristic search
+
+📚 References
+Dorigo, M., & Di Caro, G. (1999). The Ant Colony Optimization Meta-Heuristic.
+Dorigo, M., & Stützle, T. (2004). Ant Colony Optimization. MIT Press.
+
+📌 Summary
+This project successfully demonstrates the power of ACO in solving real-world optimization problems. The manually built system provides a flexible base for experimenting with pheromone dynamics, parameter tuning, and potential hybrid approaches.
